@@ -18,8 +18,8 @@ Project:
    Module: FTOptix.HMIProject
    Version: 7.1
  Statistics:
-  TotalNodeCount: 13
-  Objects: 9
+  TotalNodeCount: 14
+  Objects: 10
   ObjectTypes: 0
   Variables: 4
   VariableTypes: 0
@@ -27,6 +27,6 @@ Project:
   Methods: 0
   References: 0
   ReferenceTypes: 0
-  Files: 5
+  Files: 6
  Nodes:
  - File: Nodes/testLibrary.yaml
